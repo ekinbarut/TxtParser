@@ -31,7 +31,6 @@ namespace TxtParser
 
             File.WriteAllLines(outputPath, text);
 
-            
         }
 
     }

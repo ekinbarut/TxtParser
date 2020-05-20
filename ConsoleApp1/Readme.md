@@ -1,0 +1,1 @@
+﻿Best performance option to read and process huge text files using streamreader. 
